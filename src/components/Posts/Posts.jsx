@@ -7,7 +7,7 @@ export const Posts =({posts})=>{
            <PostCard
            cover={post.cover}
            title={post.title}
-           boby={post.boby}
+           body={post.body}
            key={post.id}
            id={post.id}
            /**assim tambem funciona
