@@ -28,5 +28,17 @@
   max-width: 100%;
 }
 .button-container {
-margin: 10px;
+margin-top: 50px;
+}
+
+.search-container{
+  margin-bottom:30px ;
+}
+.search-container h1{
+  margin-bottom: 30px ;
+}
+.text-input{
+  width: 100%;
+  font-size: 30px;
+  padding: 10px 15px;
 }
